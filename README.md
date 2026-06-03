@@ -48,7 +48,8 @@ The full dataset used in the original MATLAB analysis is not included.
 
 Install dependencies:
 
-in bash
+in bash:
+
 pip install -r requirements.txt
 
 ## Output
