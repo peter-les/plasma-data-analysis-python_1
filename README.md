@@ -46,11 +46,13 @@ The full dataset used in the original MATLAB analysis is not included.
 
 ## How to Run
 
-Install dependencies:
-
-in bash:
+Install dependencies (in bash):
 
 pip install -r requirements.txt
+
+Run the analysis (in bash):
+
+python main.py
 
 ## Output
 
