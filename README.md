@@ -19,6 +19,13 @@ Photron FASTCAM video:
 - monochrome
 - 30001 frames
 
+## Dataset
+
+This repository contains a **trimmed version** of the original recording (first ~30 seconds only) to reduce file size.
+
+The full dataset used in the original MATLAB analysis is not included due to size constraints.
+
+
 ## Outputs
 
 - attachment position
