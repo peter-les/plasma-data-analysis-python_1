@@ -1,22 +1,49 @@
 # Attachment Movement Analysis
 
-Python reimplementation of a MATLAB project
-developed during my PhD research in plasma physics.
+Python reimplementation of a MATLAB project developed during PhD research in plasma physics.
 
-The software analyses high-speed videos of arc
-attachments and calculates:
+## Purpose
 
+The software analyses high-speed videos of arc attachment motion on an anode surface.
+
+The original implementation was written in MATLAB.
+
+This project reproduces the same workflow in Python.
+
+## Input
+
+Photron FASTCAM video:
+
+- 300000 fps
+- 256 x 80 px
+- monochrome
+- 30001 frames
+
+## Outputs
+
+- attachment position
 - attachment velocity
 - restrike period
-- travelled distance
-- uncertainty estimates
+- restrike length
+- uncertainty estimation
 
-Original implementation:
-MATLAB (2018–2019)
+## Installation
 
-Current implementation:
-Python 3.12
-NumPy
-OpenCV
-Matplotlib
-Pandas
+```bash
+pip install -r requirements.txt
+```
+
+## Run
+
+```bash
+python main.py
+```
+
+## Author
+
+MATLAB version:
+PhD plasma physics research
+
+Python version:
+MATLAB-to-Python migration project
+for software development portfolio.
