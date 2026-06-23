@@ -50,7 +50,7 @@ Install dependencies (in bash):
 
 pip install -r requirements.txt
 
-Run the analysis (in bash): (Execute this command in the directory where you downloaded all the necessary files.)
+Run the analysis (Execute this command in the directory where you downloaded all the necessary files.) (in bash):
 
 python main.py
 
