@@ -2,7 +2,8 @@
 
 from pathlib import Path
 
-VIDEO_PATH = Path("data/900mbar_300A.avi")
+VIDEO_PATH = Path("data/900mbar_300A_only30sec.avi")
+# For the whole video, which is not here, the path would be "VIDEO_PATH = Path("data/900mbar_300A.avi")".
 
 # MATLAB:
 # N0=1;
