@@ -38,7 +38,7 @@ The processing pipeline includes:
 
 ## Dataset
 
-This repository contains a trimmed version of the original recording (approximately first 30 seconds only) due to file size limitations.
+This repository contains a trimmed version of the original recording (approximately 30 seconds only) due to file size limitations.
 
 The full dataset used in the original MATLAB analysis is not included.
 
